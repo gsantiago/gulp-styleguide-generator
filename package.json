@@ -1,0 +1,17 @@
+{
+  "name": "gulp-styleguide-generator",
+  "version": "0.0.0",
+  "author": "Guilherme Santiago",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsantiago/gulp-styleguide-generator"
+  },
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "ejs": "^2.5.1",
+    "lodash.assign": "^4.1.0",
+    "lodash.merge": "^4.5.1",
+    "marked": "^0.3.6",
+    "through2": "^2.0.1"
+  }
+}
